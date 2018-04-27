@@ -1,0 +1,17 @@
+.jumbotron.jumbotron-fluid {
+    color: white;
+    background: blue;
+}
+
+body {
+    font-size: .5em;
+    margin-top: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.jumbotron.jumbotron-fluid2 {
+    font-size: .01em;
+    text-align: center;
+    background: ghostwhite;
+}
